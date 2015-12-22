@@ -1,0 +1,23 @@
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\LojaEF.exe.config
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\LojaEF.mdf
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\LojaEF_log.ldf
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\LojaEF.exe
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\LojaEF.pdb
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\EntityFramework.dll
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\EntityFramework.xml
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\obj\Debug\LojaEF.csprojResolveAssemblyReference.cache
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\obj\Debug\LojaEF.exe
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\obj\Debug\LojaEF.pdb
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\obj\Debug\LojaEF.Migrations.InitialCreate.resources
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\obj\Debug\LojaEF.csproj.GenerateResource.Cache
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\obj\Debug\LojaEF.Migrations.MudaConfiguracoesDoUsuario.resources
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\obj\Debug\LojaEF.Migrations.NovaEntidadeProduto.resources
+C:\Users\rqguzman\Documents\Visual Studio 2013\Projects\LojaEF\LojaEF\obj\Debug\LojaEF.Migrations.CriaCategoria.resources
+C:\Caelum\LojaEF\LojaEF\bin\Debug\LojaEF.exe.config
+C:\Caelum\LojaEF\LojaEF\obj\Debug\LojaEF.exe
+C:\Caelum\LojaEF\LojaEF\obj\Debug\LojaEF.pdb
+C:\Users\rqguzman\Source\Repos\Alura_EF\LojaEF\LojaEF\bin\Debug\LojaEF.exe.config
+C:\Users\rqguzman\Source\Repos\Alura_EF\LojaEF\LojaEF\obj\Debug\LojaEF.exe
+C:\Users\rqguzman\Source\Repos\Alura_EF\LojaEF\LojaEF\obj\Debug\LojaEF.pdb
